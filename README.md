@@ -26,7 +26,7 @@ Religiao      Branco Preto
   Evangelico       2     0
   Protestante      0     1
 
-, , Escolaridade = Ensino Medio, Profissão = Motorista, Sexo = Masculino, Estado_Civil = Casado, Cidade = Recife, Estado = Pe
+, , Escolaridade = Ensino Medio, Profissão = Motorista, Sexo = Masculino, Estado_Civil = Casado, Cidade = Recife, Estado =
 
              Etnia
 Religiao      Branco Preto
