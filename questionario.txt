@@ -1,0 +1,22 @@
+Nome	Idade	Profissão	Salario	Peso	Telefone	Escolaridade	Quantidade_de_Moradores_casa	Quantidade_de_Filhos	Altura	Religiao	Sexo	Cidade	Estado	Etnia	Estado_Civil	
+
+T1	48	Motorista	3500.0	75.0	000000000	Ensino Medio	5	3	1.88	Evangelico	Feminino	Recife	Pe	Branco	Casado	
+T2	22	Motorista	3500.0	85.0	1111111111	Ensino Medio	3	0	1.88	Evangelico	Masculino	Recife	Pe	Preto	Solteiro	
+T3	23	Motorista	3600.0	60.0	222222222	Ensino Medio	5	3	1.69	Candomble	Feminino	Recife	Pe	Preto	Solteiro	
+T4	24	Motorista	3700.0	70.0	333333333	Ensino Medio	2	0	1.73	Catolico	Masculino	Recife	Pe	Branco	Solteiro	
+T5	25	Motorista	3500.0	80.0	444444444	Ensino Medio	3	1	1.65	Protestante	Feminino	Recife	Pe	Preto	Solteiro	
+T6	26	Motorista	3500.99	65.0	555555555	Ensino Medio	3	1	1.75	Evangelico	Masculino	Recife	Pe	Branco	Solteiro	
+T7	27	Motorista	3900.0	90.0	666666666	Ensino Medio	3	1	1.65	Candomble	Feminino	Recife	Pe	Preto	Solteiro	
+T8	28	Motorista	3400.0	70.0	777777777	Ensino Medio	3	1	1.77	Catolico	Masculino	Recife	Pe	Branco	Solteiro	
+T9	29	Motorista	3100.0	75.0	888888888	Ensino Medio	5	3	1.67	Protestante	Feminino	Recife	Pe	Preto	Solteiro	
+T10	30	Motorista	3000.0	88.0	999999999	Ensino Medio	4	2	1.7	Evangelico	Masculino	Recife	Pe	Branco	Solteiro	
+T11	31	Motorista	3200.0	73.0	9111111111	Ensino Medio	4	2	1.83	Candomble	Feminino	Recife	Pe	Preto	Casado	
+T12	32	Motorista	3250.0	68.0	9222222222	Ensino Medio	5	3	1.8	Catolico	Masculino	Recife	Pe	Branco	Casado	
+T13	33	Motorista	3150.0	90.0	9333333333	Ensino Medio	3	1	1.73	Protestante	Feminino	Recife	Pe	Preto	Casado	
+T14	34	Motorista	3210.0	61.0	9444444444	Ensino Medio	6	4	1.88	Evangelico	Masculino	Recife	Pe	Branco	Casado	
+T15	35	Motorista	3550.0	88.0	9555555555	Ensino Medio	5	3	1.82	Candomble	Masculino	Recife	Pe	Preto	Casado	
+T16	36	Motorista	3980.0	93.0	9666666666	Ensino Medio	4	2	1.9	Catolico	Feminino	Recife	Pe	Branco	Casado	
+T17	37	Motorista	3700.0	63.0	9777777777	Ensino Medio	4	2	1.81	Protestante	Masculino	Recife	Pe	Preto	Casado	
+T18	38	Motorista	3420.0	65.0	9888888888	Ensino Medio	4	3	1.79	Evangelico	Feminino	Recife	Pe	Branco	Casado	
+T19	39	Motorista	2780.0	83.0	9999999991	Ensino Medio	5	3	1.78	Candomble	Masculino	Recife	Pe	Preto	Casado	
+T20	40	Motorista	2500.0	68.0	9999999992	Ensino Medio	5	3	1.71	Catolico	Feminino	Recife	Pe	Branco	Casado	
